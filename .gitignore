@@ -1,5 +1,9 @@
 !ThinkPHP/
 !vendor/
+!composer.json
+!composer.lock
+!README.md
+!.htaccess
 Application/
 Public/
 index.php
