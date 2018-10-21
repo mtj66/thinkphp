@@ -1,5 +1,7 @@
-.idea
-.temp
-index.php
 !/ThinkPHP/
 !/vendor/
+/Application/
+/Public/
+/index.php
+.idea
+.temp
