@@ -1,9 +1,5 @@
 .idea
 .temp
 index.php
-!/.gitignore
-!/.htaccess
-!/composer.json
-!/README.md
-!/ThinkPHP
-!/vendor
+!/ThinkPHP/
+!/vendor/
